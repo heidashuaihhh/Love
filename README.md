@@ -1,2 +1,2 @@
 # Love
-[love](../index.html)
+love
